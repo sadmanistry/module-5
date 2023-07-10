@@ -17,19 +17,18 @@
 .banner-info{
     text-align: right;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding: 230px 250px;
+    padding: 216px 230px;
 }
 
 .banner-head{
-    font-size: 65px;
+    font-size: 35px;
     color: #151414;
-    font-weight: 700px;
     margin-top: 0px;
     margin-bottom: 24px;
 }
 .banner-para{
     color: #444343;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400px;
     margin-top: 0px;
     margin-bottom: 32px;
@@ -53,22 +52,18 @@
     display: flex;
     justify-content:space-around;
     align-items: center;
-    padding: 110px 0px 0px 205px;
+    padding: 140px 0px 0px 50px;
     
 }
-.profile-text{
-    padding: 370px 322px;
-}
+
 .profile-text-h{
     color: #151414;
     font-size: 40px;
-    font-weight: 700;
     margin-bottom: 24px;
 }
 .profile-text-para{
     color: #444343;
     font-size: 16px;
-    font-weight: 400;
     margin-bottom: 16px;
     
 }
@@ -84,3 +79,4 @@ ul li:before {
     list-style-type: none;
     font-size: 1em;
   }
+  
