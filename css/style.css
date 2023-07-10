@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* banner */
+
+.banner{
+    background-image: url('../images/banner/banner1.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+}
+.banner-info{
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 230px 250px;
+}
+
+.banner-head{
+    font-size: 65px;
+    color: #151414;
+    font-weight: 700px;
+    margin-top: 0px;
+    margin-bottom: 24px;
+}
+.banner-para{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400px;
+    margin-top: 0px;
+    margin-bottom: 32px;
+}
+.banner-btn{
+    background-color: #F15B22;
+    border-radius: 5px;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 25px;
+}
+
+/* banner-complete */
+
+/* main profile section */
