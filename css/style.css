@@ -47,3 +47,40 @@
 /* banner-complete */
 
 /* main profile section */
+
+.profile{
+    height: 100vh;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 110px 0px 0px 205px;
+    
+}
+.profile-text{
+    padding: 370px 322px;
+}
+.profile-text-h{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.profile-text-para{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    
+}
+ul li:before {
+    content: '\2713';
+    display: inline-block;
+    color: green;
+    padding: 0 6px 0 0;
+    
+  }
+  
+  ul li {
+    list-style-type: none;
+    font-size: 1em;
+  }
